@@ -1,0 +1,13 @@
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\bin\Debug\mathTrainer.exe.config
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\bin\Debug\mathTrainer.exe
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\bin\Debug\mathTrainer.pdb
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.csprojAssemblyReference.cache
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.Form1.resources
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.Properties.Resources.resources
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.csproj.GenerateResource.cache
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.exe
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.pdb
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.csproj.Fody.CopyLocal.cache
+C:\Users\Disabled\source\repos\mathTrainer\mathTrainer\obj\Debug\mathTrainer.csproj.CopyComplete
